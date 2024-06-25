@@ -1,7 +1,3 @@
-Claro, aquí tienes una versión revisada del README.md que se enfoca en explicar el sistema de reserva de boletos de cine sin mencionar los estados específicos de "seleccionado":
-
----
-
 # Sistema de Reserva de Boleto de Cine
 
 Este es un sistema interactivo para la reserva de boletos de cine, donde los usuarios pueden seleccionar y reservar asientos en una sala virtual de 10x10. Cada asiento está identificado por una fila (de la A a la J) y una columna (del 1 al 10).
